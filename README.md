@@ -1,8 +1,9 @@
-# React + Vite
+# Un simple generador de QR para URL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+La pagina web [Aquí](https://angelito91.github.io/qrcode)
 
-Currently, two official plugins are available:
+![ScreenShot](./public/readme.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📌 tecnologías
+- React 💊
+- Tailwindcss ⭐
